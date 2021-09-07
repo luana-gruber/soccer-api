@@ -1,5 +1,7 @@
 # Soccer API ⚽
 
+![image](https://user-images.githubusercontent.com/81046850/132337541-2d7890e0-b036-410f-8b98-8ad8dbdb389f.png)
+
 O usuário utiliza o campo de pesquisa para procurar pelo time ou pelo jogador, recebe uma lista e seleciona aquele que deseja ver mais informações. 
 
 # Quer pesquisar algum time ou jogador e saber mais informações sobre?
